@@ -1,1 +1,1 @@
-# Paradigmas-Funcionales
+# Paradigmas-Funcionales: Aqui veremos los ejemplos de los casos de los paradisgmas funcionales
