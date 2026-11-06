@@ -1,0 +1,4 @@
+# Funciones Puras, Inmutabilidad y Efectos Secundarios aqui se demuestran los conceptos fundamentales del paradigma funcional orientados a evitar efectos colaterales y trabajar con datos inmutables.
+
+# -Funcion pura: Una función que, dada la misma esntrada, siempre produce el mismo resultado y no produce efectos secundarios (no modifica variables gobales ni interactua de forma inpredecible de con el exterior).
+# -Inmautabilidad: Los datos no se modifican una vez creados. En este ejemplo utilizan tuplas para simular ejemplos para generar estructuras inmutables generando nuevas versiones en vez de alterar las originales.
